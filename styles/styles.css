@@ -1,0 +1,15 @@
+h1 {
+    font-size: 40px;
+    color: seagreen;
+}
+
+p {
+    text-align: justify;
+    width: 750px
+}
+
+#nav-links {
+    text-align: justify;
+    width: 80px;
+    color: black;
+}
